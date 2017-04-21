@@ -8,7 +8,7 @@ A command utility to view your stats from [Code::Stats](https://codestats.net/)
 
 
 ## What is Code::Stats?
-Code::Stats A free stats tracking service for programmers. Deveoped by [Nicd](https://github.com/Nicd), it is available as a plugin for major IDEs/Editors such as Atom, Sublime, VSCode and Webstorm.
+Code::Stats is a free stats tracking service for programmers. Developed by [Nicd](https://github.com/Nicd), it is available as a plugin for major IDEs/Editors such as Atom, Sublime, VSCode and Webstorm.
 
 ## Installation
 This command line utility can be installed via `npm`:
@@ -46,7 +46,7 @@ You can help out by:
 * Enhancing more functionalities
 * Pointing out bugs/errors
 
-_Go ahead, and create a Pull Request!_ If you make a change, please follow the standard.js cody style and the current directory structure.
+_Go ahead, and create a Pull Request!_ If you make a change, please follow the standardjs coding style and the current directory structure.
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
