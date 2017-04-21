@@ -1,5 +1,5 @@
 # codestats-cli
-A command utility for viewing your stats from [Code::Stats](https://codestats.net/)
+A command utility to view your stats from [Code::Stats](https://codestats.net/)
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
