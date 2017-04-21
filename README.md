@@ -1,6 +1,9 @@
 # codestats-cli
 A command utility to view your stats from [Code::Stats](https://codestats.net/)
 
+[![npm](https://img.shields.io/npm/v/codestats-cli.svg?style=flat-square)](https://www.npmjs.com/package/codestats-cli)
+[![npm](https://img.shields.io/npm/dm/codestats-cli.svg?style=flat-square)](https://www.npmjs.com/package/codestats-cli)
+[![Travis Build](https://travis-ci.org/amandeepmittal/codestats-cli.svg?style=flat-square)](https://travis-ci.org/amandeepmittal/codestats-cli)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 
