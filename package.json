@@ -1,0 +1,15 @@
+{
+  "name": "codestats-cli",
+  "version": "0.1.0",
+  "description": "A command utility for Codestats",
+  "bin": {
+    "codestats": "codestats"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aman Mittal <amandeepmittal@live.com> (http://amandeepmittal.github.io/)",
+  "license": "MIT"
+}
