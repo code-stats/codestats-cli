@@ -7,7 +7,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "install": "echo 'Thank you for installing!!!'"
   },
   "keywords": [],
   "author": "Aman Mittal <amandeepmittal@live.com> (http://amandeepmittal.github.io/)",
