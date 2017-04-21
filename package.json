@@ -1,9 +1,9 @@
 {
   "name": "codestats-cli",
-  "version": "0.1.0",
-  "description": "A command utility for Codestats",
+  "version": "1.0.0",
+  "description": "A command utility for Code::stats",
   "bin": {
-    "codestats": "codestats"
+    "codestats": "index.js"
   },
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,10 @@
   },
   "keywords": [],
   "author": "Aman Mittal <amandeepmittal@live.com> (http://amandeepmittal.github.io/)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "1.1.3",
+    "commander": "2.9.0",
+    "request": "2.81.0"
+  }
 }
